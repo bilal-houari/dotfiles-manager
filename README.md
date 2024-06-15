@@ -7,11 +7,11 @@ This script helps you manage your dotfiles by creating symlinks to files in a de
 1. **Fork the Repository:**
    Fork this repository into your own **private** GitHub repository. This allows you to make changes and commit your own dotfiles.
 
-2. **Clone your forked repository:**
+2. **Clone your forked repository to your _home directory_:**
    ```bash
    cd && git clone <your-forked-repository-url> .dotfiles
    ```
-   Replace `<your-forked-repository-url>` with the URL of your forked repository.
+   Replace `<your-forked-repository-url>` with the URL of your forked repository. And make sure you clone the script to your home directory.
 
 3. **Navigate to the dotfiles directory:**
    ```bash
